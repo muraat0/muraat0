@@ -1,60 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Murat+%F0%9F%91%8B;Software+Developer;Backend+%26+Database+Architecture;OOP+%26+Web+Development" alt="Typing SVG" />
-
-  <p align="center">
-    <strong>Ölçeklenebilir backend mimarileri, yüksek performanslı veritabanı tasarımları ve modern web çözümleri üretiyorum.</strong>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Backend_%26_Database_Architecture-0ea5e9?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Core-OOP_%26_Clean_Code-6366f1?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Building_Scalable_Systems-10b981?style=for-the-badge&logoColor=white" />
-  </p>
-</div>
-
----
-
-### 💻 Teknolojiler & Beceriler
-
-**Diller & Backend:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Veritabanı & Altyapı:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Frontend & Temel:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-### 🚀 Nelerle Uğraşıyorum?
-* 🗄️ SQL optimizasyonu, ilişkisel veritabanı tasarımı ve veri yönetimi.
-* ⚙️ Java (Swing & Core) ve Python ile masaüstü/otomasyon projeleri.
-* 🌐 Flask tabanlı API servisleri ve web panelleri.
-* 📈 Finansal veri akışları ve algoritma modelleri.
-
----
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muraat0&show_icons=true&theme=tokyonight&hide_border=true" alt="Murat'ın GitHub İstatistikleri" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muraat0&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="150" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=MURAT%20AĞİT%20ÇINAR&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20Backend%20%26%20Database%20Architect&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=muraat0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Y%C3%BCksek+Performansl%C4%B1+Backend+Mimarileri;Kurumsal+Veritaban%C4%B1+Tasar%C4%B1m%C4%B1+%26+SQL+Optimizasyonu;Temiz+Kod%2C+%C3%96l%C3%A7eklenebilir+Masa%C3%BCst%C3%BC+ve+Web+%C3%87%C3%B6z%C3%BCmleri;Building+Robust+%26+Scalable+Software+Architectures" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muraat0&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Ziyaretçi Sayacı" />
+  <img src="https://img.shields.io/badge/FOCUS-Database_Architecture-6366f1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-Building_Scalable_Systems-10b981?style=for-the-badge&logoColor=white" />
+</div>
 
-### 📬 İletişim
-* 🌐 **Web:** [cinarsoftware.com](https://cinarsoftware.com)
-* ✉️ **E-posta:** muratagitcinar@gmail.com
+<br/>
+
+```zsh
+murat@archlinux:~$ neofetch --software-dev
+  MURAT AĞİT ÇINAR
+  -----------------
+  OS        : Software Architecture & Linux
+  Role      : Software Developer & DBA Candidate
+  Focus     : Backend Ecosystems, High-Load Databases, Clean Code
+  Paradigms : OOP, Modular Architecture, ACID Compliance
+  Target    : Building high-availability systems with zero latency
