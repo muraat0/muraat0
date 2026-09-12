@@ -1,7 +1,15 @@
 <div align="center">
-  <h1>Merhaba, Ben Murat 👋</h1>
-  <p><strong>Yazılım Öğrencisi & Geleceğin Veritabanı Yöneticisi (DBA)</strong></p>
-  <p>Verimli veritabanı mimarileri, backend sistemleri ve otomasyon araçları geliştiriyorum.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Murat+%F0%9F%91%8B;Software+Developer;Backend+%26+Database+Architecture;OOP+%26+Web+Development" alt="Typing SVG" />
+
+  <p align="center">
+    <strong>Ölçeklenebilir backend mimarileri, yüksek performanslı veritabanı tasarımları ve modern web çözümleri üretiyorum.</strong>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Backend_%26_Database_Architecture-0ea5e9?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Core-OOP_%26_Clean_Code-6366f1?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Building_Scalable_Systems-10b981?style=for-the-badge&logoColor=white" />
+  </p>
 </div>
 
 ---
