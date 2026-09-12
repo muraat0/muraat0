@@ -57,5 +57,4 @@
 
 ### 📬 İletişim
 * 🌐 **Web:** [cinarsoftware.com](https://cinarsoftware.com)
-* 💼 **LinkedIn:** [Profil Bağlantın](https://linkedin.com)
-* ✉️ **E-posta:** iletisim@cinarsoftware.com
+* ✉️ **E-posta:** muratagitcinar@gmail.com
