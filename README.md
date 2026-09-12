@@ -45,12 +45,12 @@
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muraat0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Murat'ın GitHub İstatistikleri" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muraat0&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muraat0&show_icons=true&theme=tokyonight&hide_border=true" alt="Murat'ın GitHub İstatistikleri" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muraat0&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muraat0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=muraat0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
